@@ -11,3 +11,6 @@ how to run the project:
 
 
 Any suggestions are welcome
+
+
+![Screenshot (65)](https://github.com/gmrpr321/image_sort/assets/94698751/e4de06f4-90e5-4440-b63a-0928423174d5)
