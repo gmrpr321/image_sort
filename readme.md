@@ -1,4 +1,3 @@
-title : sorting techniques using images
 
 this project is to demonstrate how each sorting algorithm approaches its results.it is done by python 3.10.2 
 
